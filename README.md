@@ -14,8 +14,3 @@ Projeto com instruções básicas do Java
 * Operadores de igualdade e relacionais
 * Fluxo de Controle (Seleção)
 * Entrada de Dados (Scanner)
-
-| Fase | 1 - JAVA FOUNDATIONS & UX |
-| --- | --- |
-| Módulo | Fundamentos Java |
-| Capítulo | 2 - Hello World |
