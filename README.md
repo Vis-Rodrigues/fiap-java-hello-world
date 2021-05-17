@@ -1,7 +1,7 @@
 # :coffee: fiap-java-hello-world
 Projeto com instruções básicas do Java
 
-### :bookmark: Primeiros passos do Java
+### :bookmark:  Primeiros passos do Java
 * Tipo de váriaveis
 * Operadores aritméticos
 * Operadores de atribuição
@@ -14,4 +14,4 @@ Projeto com instruções básicas do Java
 | Fase | 1 - JAVA FOUNDATIONS & UX |
 | --- | --- |
 | Módulo | Fundamentos Java |
-| Capítulo | 2 |
+| Capítulo | 2 - Hello World |
