@@ -1,7 +1,7 @@
 # :coffee: fiap-java-hello-world
 Projeto com instruções básicas do Java
 
-### :bookmark:  Primeiros passos do Java
+### :rocket:  Primeiros passos do Java
 * Tipo de váriaveis
 * Operadores aritméticos
 * Operadores de atribuição
