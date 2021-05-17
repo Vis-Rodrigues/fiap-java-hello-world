@@ -1,10 +1,10 @@
 # fiap-java-hello-world
-## MBA Full Stack
-## Fase: 1
-## Fundamentos Java
-## Capítulo 2 - Hello World
+#### MBA Full Stack
+#### Fase: 1
+#### Fundamentos Java
+#### Capítulo 2 - Hello World
 
-Projeto com instruções básicas do Java, como por exemplo:
+Projeto com instruções básicas do Java:
 * Tipo de váriaveis
 * Operadores aritméticos
 * Operadores de atribuição
